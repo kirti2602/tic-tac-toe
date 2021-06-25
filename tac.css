@@ -52,11 +52,9 @@ color: blueviolet;
     border-left: 1px solid black;
 }
 
-small{
-    text-align: centre;
+.bLine{
+    text-align: center;
     font-family: 'Raleway', sans-serif;
     bottom: 0.5rem;
     position: absolute;
-    margin-left: 42%;
-    display: block;
 }
