@@ -1,3 +1,4 @@
+//to select the board cells
 let cells = document.querySelectorAll("td");
 
 for (let i = 0; i < cells.length; i++) {
